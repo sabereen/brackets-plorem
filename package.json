@@ -1,0 +1,18 @@
+{
+    "name": "sabereen.plorem",
+    "title": "متن تصادفی فارسی",
+    "description": "تولید ترجمه‌ی آیات قرآن تصادفی",
+    "homepage": "https://github.com/sabereen/brackets-plorem",
+    "version": "1.0.0",
+    "author": "Mojtaba Qasemzade Tehrany <mojtaba@si2.ir> (http://ecmascript.ir)",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=1.8"
+    },
+    "i18n": ["fa"],
+    "package-i18n": {
+        "fr": {
+            "description": "Plus de détails utiles pour laisser quelqu'un savoir ce que votre poste est tout au sujet."
+        }
+    }
+}
