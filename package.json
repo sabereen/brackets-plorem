@@ -1,9 +1,9 @@
 {
     "name": "sabereen.plorem",
     "title": "PLOREM - Persian random text",
-    "description": "تولید متن تصادفی ترجمه‌ی آیات قرآن",
+    "description": "تولید متن تصادفی فارسی - ترجمه‌ی آیات قرآن",
     "homepage": "https://github.com/sabereen/brackets-plorem",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "author": "Mojtaba Qasemzade Tehrany <mojtaba@si2.ir> (http://ecmascript.ir)",
     "license": "MIT",
     "repository": {
@@ -11,7 +11,7 @@
       "url": "https://github.com/sabereen/brackets-plorem"
     },
     "engines": {
-        "brackets": ">=1.8"
+        "brackets": ">=1.10"
     },
     "i18n": ["fa"]
 }
