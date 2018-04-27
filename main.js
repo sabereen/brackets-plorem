@@ -29,7 +29,7 @@ define(function (require, exports, module) {
         .replace(/[\(\)]/g, '')
         .replace(/‌/g, ' ')
         .replace(/\]/g, '')
-        .replace(/\[=\s?/g, 'یعنی')
+        .replace(/\[=\s?/g, 'یعنی ')
         .replace(/\[/g, '')
     }
   }

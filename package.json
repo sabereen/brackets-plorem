@@ -3,7 +3,7 @@
     "title": "PLOREM - Persian random text",
     "description": "تولید متن تصادفی فارسی - ترجمه‌ی آیات قرآن",
     "homepage": "https://github.com/sabereen/brackets-plorem",
-    "version": "0.2.1",
+    "version": "0.2.2",
     "author": "Mojtaba Qasemzade Tehrany <mojtaba@si2.ir> (http://ecmascript.ir)",
     "license": "MIT",
     "repository": {
