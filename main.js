@@ -91,9 +91,4 @@ define(function (require, exports, module) {
     editor.document.replaceRange(randomAya(wordsCount), {ch: cursor.ch - matchedLength, line: cursor.line}, cursor)
   }
   
-  $(document).keydown((ev) => {
-    if (ev.keyCode === 9) insertHint()
-  })
-
-  
 })

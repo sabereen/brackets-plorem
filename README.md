@@ -1,7 +1,7 @@
-<div dir="rtl" style="font-family: tahoma">
+<div dir="rtl">
 
 # brackets-plorem
-افزونه‌ی تولید متن تصادفی فارسی برای [براکتز](http://brackets.io)
+افزونه‌ی تولید متن تصادفی فارسی برای [Brackets](http://brackets.io)
 
 یکی از مشکلات طرّاحان وب، نوشتن متنی موقّتی در صفحه برای پیش‌نمایش قالب و کارهایی  از این دست می‌باشد. با این افزونه می‌توانید به صورت خودکار و فقط با نوشتن عبارت plorem  متن‌های تصادفی فارسی تولید کنید. این متن‌ها ترجمه‌ی آیاتی از قرآن هستند که به صورت تصادفی انتخاب شده اند.
 
@@ -15,7 +15,7 @@
 ![plorem 2](https://cdn.rawgit.com/sabereen/brackets-plorem/master/plorem2.gif)
 
 
-# نصب
+## نصب
 برای نصب این افزونه در نرم افزار براکتز ابتدا روی دکمه‌ای که در تصویر می‌بینید کلیک کنید:
 
 ![brackets install extension](http://brackets.dnbard.com/images/extensions1.png)
